@@ -10,5 +10,7 @@ package aprilbook;
  * @author Natchiappan
  */
 public class AprilFirst {
+    int money =20;
+    
     
 }
